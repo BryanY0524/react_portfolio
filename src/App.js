@@ -1,25 +1,33 @@
-import logo from './logo.svg';
+import React, { Component } from "react";
 import './App.css';
+import Main from "./components/main";
+import Intro from "./components/intro";
+import Portfolio from "./components/portfolio";
+import Modal01 from "./components/modals/modal01";
+import Modal02 from "./components/modals/modal02";
+import About from "./components/about";
+import Exp from "./components/experience";
+import Edu from "./components/education";
+import ScrollTopArrow from "./components/scroll_top";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Test
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div>
+        <header>
+          <Main></Main>
+        </header>
+        <ScrollTopArrow></ScrollTopArrow>
+        <Intro></Intro>
+        <About></About>
+        <Portfolio></Portfolio>
+        <Exp></Exp>
+        <Edu></Edu>
+        <Modal01></Modal01>
+        <Modal02></Modal02>
+      </div>
+    );
+  }
 }
 
 export default App;
