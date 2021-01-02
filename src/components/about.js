@@ -16,7 +16,7 @@ export default class About extends Component {
                             <div className="col-sm-8">
                                 <p className="margin-b-50">
                                     My name is Bryan Yuen, a recent graduate from BCIT Computer Information Technology (CIT) Program. 
-                                    I am experienced in <b>Mobile/Web Development</b>, <b>DevOps</b>, and <b>System Administration (Windows & Linux)</b>.    
+                                    I have experience in <b>Mobile/Web Development</b>, <b>DevOps</b>, and <b>System Administration (Windows & Linux)</b>.    
                                 </p>
                                 <div className="row">
                                     <div className="col-sm-6 col-md-6 col-lg-3">
