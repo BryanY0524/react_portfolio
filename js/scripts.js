@@ -14,7 +14,7 @@
                     queue: false
                 }
             });
-            $('.portfolioFilter a').click(function() {
+            $('.portfolioFilter button').click(function() {
                 $('.portfolioFilter .current').removeClass('current');
                 $(this).addClass('current');
                 var selector = $(this).attr('data-filter');
@@ -68,7 +68,7 @@ function enableRadialProgress() {
                 width: 1
             },
             to: {
-                color: '#0300CC',
+                color: '#7482ff',
                 width: 3
             },
             step: function(state, circle) {
@@ -98,7 +98,7 @@ function enableLineProgress() {
             strokeWidth: 1,
             easing: 'easeInOut',
             duration: 1400,
-            color: '##0300CC',
+            color: '#0300CC',
             trailColor: '#eee',
             trailWidth: 1,
             svgStyle: {
