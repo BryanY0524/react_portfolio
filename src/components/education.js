@@ -18,12 +18,10 @@ export default class Edu extends Component {
                                     <div className="education margin-b-50">
                                         <h4><b>COMPUTER INFORMATION TECHNOLOGY DIPLOMA</b></h4>
                                         <h5 className="font-yellow"><b>BRITISH COLUMBIA INSTITUTE OF TECHNOLOGY</b></h5>
-                                        <h6 className="font-lite-black margin-t-10">GRADUATED IN DECEMBER 2020(2 YEARS)</h6>
-                                        <p className="margin-tb-30">Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque
-                                        sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus
-                                        pellentes que velit, quis consequat nulla effi citur at. Maecenas
-                                        sed massa tristique.Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque
-                                sit amet sodales. </p>
+                                        <h6 className="font-lite-black margin-t-10">GRADUATED WITH DISTINCTION (85% GPA)</h6>
+                                        <p className="margin-tb-30">
+                                            Refined my coding and analytical skills and learned about web development using various framework, libraries, and APIs.
+                                        </p>
                                     </div>
                                     <div className="education margin-b-50">
                                         <h4><b>MAJOR IN PHYSICS</b></h4>

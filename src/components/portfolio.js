@@ -14,10 +14,10 @@ export default class Portfolio extends Component {
                         </div>
                         <div className="col-sm-8">
                             <div className="portfolioFilter clearfix margin-b-80">
-                                <a href="#" data-filter="*" className="current"><b>ALL</b></a>
-                                <a href="#" data-filter=".web-design"><b>Web App</b></a>
-                                <a href="#" data-filter=".programming"><b>Programming</b></a>
-                                <a href="#" data-filter=".other"><b>Other</b></a>
+                                <button data-filter="*" className="current"><b>ALL</b></button>
+                                <button data-filter=".web-design"><b>Web App</b></button>
+                                <button data-filter=".programming"><b>Programming</b></button>
+                                <button data-filter=".other"><b>Other</b></button>
                             </div>
                         </div>
                     </div>
@@ -48,34 +48,34 @@ export default class Portfolio extends Component {
                                 <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                     <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img className="img-fluid" src={process.env.PUBLIC_URL +"/images/portfolio/circus.png"} alt="" />
+                                <img className="img-fluid" src={process.env.PUBLIC_URL +"/images/portfolio/SAR/app_icon.png"} alt="" />
                             </div>
                         </div>
 
-                        <div className="col-md-6 col-lg-4 mb-5 mb-lg-0 p-item other">
+                        <div className="col-md-6 col-lg-4 mb-5 p-item programming">
                             <div className="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal4">
                                 <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                     <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img className="img-fluid" src={process.env.PUBLIC_URL +"/images/portfolio/game.png"} alt="" />
+                                <img className="img-fluid" src={process.env.PUBLIC_URL +"/images/portfolio/desktopbuilder/icon.png"} alt="" />
                             </div>
                         </div>
 
-                        <div className="col-md-6 col-lg-4 mb-5 mb-lg-0 p-item other">
+                        <div className="col-md-6 col-lg-4 mb-5 p-item programming">
                             <div className="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5">
                                 <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                     <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img className="img-fluid" src={process.env.PUBLIC_URL +"/images/portfolio/cake.png"} alt="" />
+                                <img className="img-fluid" src={process.env.PUBLIC_URL +"/images/portfolio/Algo/icon.PNG"} alt="" />
                             </div>
                         </div>
 
-                        <div className="col-md-6 col-lg-4 mb-5 mb-lg-0 p-item other">
+                        <div className="col-md-6 col-lg-4 mb-5 p-item web-design">
                             <div className="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
                                 <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                     <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img className="img-fluid" src={process.env.PUBLIC_URL +"/images/portfolio/safe.png"} alt="" />
+                                <img className="img-fluid" src={process.env.PUBLIC_URL +"/images/portfolio/Deskcode/icon.PNG"} alt="" />
                             </div>
                         </div>
                     </div>
