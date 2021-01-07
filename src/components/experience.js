@@ -21,7 +21,7 @@ export default class Exp extends Component {
                                     <p className="font-semi-white margin-tb-30">
                                         In this project, I collaborated in a team of 5 using Agile methodologies as a Development Lead. 
                                         The Objective of this project is to build a submission mangement portal for users to manage and review.
-                                        I responsible to develop features required by the client, and oversee the project and team progress. 
+                                        I was responsible to develop features required by the client, and oversee the project and team progress. 
                                     </p>
                                     <ul className="list margin-b-30">
                                         <li>Communicate with client and gather information and requirements.</li>
