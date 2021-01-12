@@ -68,7 +68,10 @@ export default class Skill extends Component {
                                     <div className="icon shadow d-flex align-items-center justify-content-center"><i className="fas fa-server"></i></div>
                                     <div className="media-body">
                                         <h3 className="heading2 mb-3">System Administration</h3>
-                                        <p>I have experience managing Windows Servers and Linux environment through CLI both locally and with <b>Cloud</b> services such as <b>AWS/Azure</b>.</p>
+                                        <p>
+                                            I have experience managing Windows Servers and Linux environment through CLI both locally and with <b>Cloud</b> services such as <b>AWS/Azure</b>. 
+                                            As well as provisioning using <b>Vagrant, Ansible, and Packer</b>.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
