@@ -14,7 +14,7 @@ export default class Modal06 extends Component {
                                 <div className="row justify-content-center">
                                     <div className="col-lg-10">
 
-                                        <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0 text-center" id="portfolioModal6Label">Submission Management Portal</h2>
+                                        <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0 text-center" id="portfolioModal6Label">DESKCODE IN-BROWSER HTML IDE</h2>
                                         <div className="row justify-content-center mt-3">
                                             <a href="https://github.com/BryanY0524/DESKCODE" target="_blank" rel="noreferrer"><b>Github Repository</b></a>
                                         </div>
