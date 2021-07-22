@@ -37,7 +37,7 @@ export default class Main extends Component {
                         </div>
                     </div>
                 </div>
-                <a className="downlad-btn" href={process.env.PUBLIC_URL + '/Resume.pdf'} target="_blank" download="BryanYuen_Resume.pdf"  rel="noreferrer"><i className="fa fa-download"></i> Download CV</a>
+                <a className="downlad-btn" href="https://drive.google.com/file/d/1DkBLf0TSFo89ddLM2keGoRosOHnCl_VU/view?usp=sharing" target="_blank" download="BryanYuen_Resume.pdf"  rel="noreferrer"><i className="fa fa-download"></i> Download CV</a>
             </div>
         )
     }
