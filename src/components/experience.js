@@ -10,12 +10,26 @@ export default class Exp extends Component {
                             <div className="col-sm-4">
                                 <div className="heading">
                                     <h3><b>Work Experience</b></h3>
-                                    <h6 className="font-lite-black"><b>Industry Projects</b></h6>
                                 </div>
                             </div>
                             <div className="col-sm-8">
                                 <div className="experience margin-b-50">
-                                    <h4><b>DEVELOPMENT LEAD</b></h4>
+                                    <h4><b>FULL STACK DEVELOPER</b></h4>
+                                    <h5 className="font-yellow"><b>WIIBID</b></h5>
+                                    <h6 className="margin-t-10">APRIL 2021 - PRESENT</h6>
+                                    <p className="font-semi-white margin-tb-30">
+                                        In this start-up company, I collaborate with a small team of developers using Agile methodologies as a Full Stack Developer. 
+                                        I am responsible to develop new features while also maintaining and testing the web application.
+                                        I was also responsible to lead a student team to build a prototype android mobile app, as well as external facing REST APIs. 
+                                    </p>
+                                    <ul className="list margin-b-30">
+                                        <li>Maintaining and developing new features on Wiibid's Web application using ASP.NET MVC framework.</li>
+                                        <li>Lead Wiibid Mobile app prototype development using Xamarin and API development using ASP.NET Web API framework.</li>
+                                        <li>Participate in Daily Scrum Meeting and Contribute in System Design discussions.</li>
+                                    </ul>
+                                </div>
+                                <div className="experience margin-b-50">
+                                    <h4><b>DEVELOPMENT LEAD</b></h4><h6 className="font-lite-black"><b>Industry Projects</b></h6>
                                     <h5 className="font-yellow"><b>BCIT School of Computing and Academic Studies</b></h5>
                                     <h6 className="margin-t-10">SEPTEMBER 2020 - DECEMBER 2020</h6>
                                     <p className="font-semi-white margin-tb-30">
@@ -32,7 +46,7 @@ export default class Exp extends Component {
                                     </ul>
                                 </div>
                                 <div className="experience margin-b-50">
-                                    <h4><b>JR. DEVELOPER</b></h4>
+                                    <h4><b>JR. DEVELOPER</b></h4><h6 className="font-lite-black"><b>Industry Projects</b></h6>
                                     <h5 className="font-yellow"><b>SAR TECHNOLOGY INC.</b></h5>
                                     <h6 className="margin-t-10">JANUARY 2020 - APRIL 2020</h6>
                                     <p className="font-semi-white margin-tb-30">
