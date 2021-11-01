@@ -31,7 +31,7 @@ export default class Skill extends Component {
                                     <div className="icon d-flex align-items-center justify-content-center"><i className="fas fa-code fa-2x"></i></div>
                                     <div className="media-body">
                                         <h3 className="heading2 mb-3">Mobile/Web Development</h3>
-                                        <p>I have experience Designing and Developing Mobile/Web Application with <b>HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, AngularJS, React</b>, etc.</p>
+                                        <p>I have experience Designing and Developing Mobile/Web Application with <b>HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, AngularJS, React, C#, .Net</b>, etc.</p>
                                     </div>
                                 </div>
                             </div>

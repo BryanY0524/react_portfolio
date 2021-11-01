@@ -29,7 +29,7 @@ export default class Main extends Component {
                                 <i className="icon fas fa-envelope"></i>
                                 <div className="right-area">
                                     <h5>
-                                        byuen22@my.bcit.ca
+                                        byuen22@gmail.com
                                 </h5>
                                     <h6>REPLY IN 24 HOURS</h6>
                                 </div>

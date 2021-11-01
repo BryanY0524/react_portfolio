@@ -24,8 +24,10 @@ export default class Exp extends Component {
                                     </p>
                                     <ul className="list margin-b-30">
                                         <li>Maintaining and developing new features on Wiibid's Web application using ASP.NET MVC framework.</li>
+                                        <li>Maintaining and updating Selenium test for regression testing.</li>
+                                        <li>Provide training and guidance to new team members.</li>
                                         <li>Lead Wiibid Mobile app prototype development using Xamarin and API development using ASP.NET Web API framework.</li>
-                                        <li>Participate in Daily Scrum Meeting and Contribute in System Design discussions.</li>
+                                        <li>Participate in Daily Scrum Meeting and Contribute in System Design in all aspects (Frontend, Backend, Database Structure).</li>
                                     </ul>
                                 </div>
                                 <div className="experience margin-b-50">

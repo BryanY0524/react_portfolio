@@ -15,7 +15,7 @@ export default class About extends Component {
                             </div>
                             <div className="col-sm-8">
                                 <p className="margin-b-50">
-                                    My name is Bryan Yuen, a recent graduate from BCIT Computer Information Technology (CIT) Program. 
+                                    My name is Bryan Yuen, a experienced Full Stack Developer. 
                                     I have experience in <b>Mobile/Web Development</b>, <b>DevOps</b>, and <b>System Administration (Windows & Linux)</b>.
                                     <br/>
                                     I am currently looking for a job and opportunity to contribute my skills and knowledge to develop software/web application.

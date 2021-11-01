@@ -3,6 +3,7 @@ import './App.css';
 import Main from "./components/main";
 import Intro from "./components/intro";
 import Portfolio from "./components/portfolio";
+import Modal00 from "./components/modals/modal00";
 import Modal01 from "./components/modals/modal01";
 import Modal02 from "./components/modals/modal02";
 import Modal03 from "./components/modals/modal03";
@@ -29,6 +30,7 @@ class App extends Component {
         <Portfolio></Portfolio>
         <Exp></Exp>
         <Edu></Edu>
+        <Modal00></Modal00>
         <Modal01></Modal01>
         <Modal02></Modal02>
         <Modal03></Modal03>

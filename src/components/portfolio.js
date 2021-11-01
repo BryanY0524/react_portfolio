@@ -25,6 +25,15 @@ export default class Portfolio extends Component {
                 <div className="container">
                     <div className="row justify-content-center portfolioContainer">
 
+                    <div className="col-md-6 col-lg-4 mb-5 p-item web-design">
+                            <div className="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal0" data-backdrop="static" data-keyboard="false">
+                                <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                    <div className="portfolio-item-caption-content text-center text-white"><i className="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img className="img-fluid" src={process.env.PUBLIC_URL +"/images/portfolio/welltea/icon.png"} alt="" />
+                            </div>
+                        </div>
+
                         <div className="col-md-6 col-lg-4 mb-5 p-item web-design">
                             <div className="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1" data-backdrop="static" data-keyboard="false">
                                 <div className="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
