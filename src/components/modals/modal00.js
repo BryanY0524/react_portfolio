@@ -40,7 +40,7 @@ export default class Modal01 extends Component {
                                         <p><b>Image Gallery: </b></p>
                                         <div className="row">
                                             <div className="col-lg-6 img-block">
-                                                <img className="img-fluid rounded" src={process.env.PUBLIC_URL + "/images/portfolio/welltea/landing.png"} alt="" />
+                                                <img className="img-fluid rounded" src={process.env.PUBLIC_URL + "/images/portfolio/welltea/landing.PNG"} alt="" />
                                                 <i>Landing Page</i>
                                             </div>
                                             <div className="col-lg-6 img-block">

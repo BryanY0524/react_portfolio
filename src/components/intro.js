@@ -15,7 +15,7 @@ export default class Intro extends Component {
                                     <h4 className="font-yellow">Recent Graduate From BCIT</h4>
                                     <ul className="information margin-tb-30">
                                         <li><b>Program : </b>Computer Information Technology</li>
-                                        <li><b>Email : <a href="mailto:byuen22@my.bcit.ca">byuen22@my.bcit.ca</a></b></li>
+                                        <li><b>Email : <a href="mailto:byuen22@gmail.com">byuen22@gmail.com</a></b></li>
                                         <li><b>GPA : </b>85%</li>
                                     </ul>
                                     <ul className="social-icons">
