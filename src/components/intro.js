@@ -12,11 +12,10 @@ export default class Intro extends Component {
                                 <div className="intro">
                                     <div className="profile-img"><img src={process.env.PUBLIC_URL + '/images/profile.jpg'} alt="" /></div>
                                     <h2><b>Bryan Yuen</b></h2>
-                                    <h4 className="font-yellow">Recent Graduate From BCIT</h4>
+                                    <h4 className="font-yellow">Full Stack Developer</h4>
                                     <ul className="information margin-tb-30">
                                         <li><b>Program : </b>Computer Information Technology</li>
                                         <li><b>Email : <a href="mailto:byuen22@gmail.com">byuen22@gmail.com</a></b></li>
-                                        <li><b>GPA : </b>85%</li>
                                     </ul>
                                     <ul className="social-icons">
                                         <li><a href="https://github.com/BryanY0524" target="_blank" rel="noreferrer"><i className="fab fa-github fa-lg"></i></a></li>
