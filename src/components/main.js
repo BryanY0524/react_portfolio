@@ -10,8 +10,8 @@ export default class Main extends Component {
                             <div className="info">
                                 <i className="icon fas fa-map-marker-alt"></i>
                                 <div className="right-area">
-                                    <h5>1-7333 Turnill Street</h5>
-                                    <h5>Richmond, BC, V6Y 4L7</h5>
+                                    <h5>19-6099 Alder Street</h5>
+                                    <h5>Richmond, BC, V6Y 0A8</h5>
                                 </div>
                             </div>
                         </div>
